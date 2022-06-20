@@ -1,0 +1,11 @@
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\bin\Debug\MestInt.exe.config
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\bin\Debug\MestInt.exe
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\bin\Debug\MestInt.pdb
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.Form1.resources
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.Properties.Resources.resources
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.exe
+C:\Users\Pedro\Desktop\MestInt-Beadando\MestInt\obj\Debug\MestInt.pdb
